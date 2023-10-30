@@ -167,19 +167,24 @@ print(classification_report(Y_test,predictions))
 ## OUTPUT 
 
 First five rows:
+
 ![rr](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/76727574-e507-49e3-aa3c-a833cab4b791)
 
 First five rows of X:
+
 ![r2](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/3f3ffcb8-2a91-41ca-b191-82c34795a2b0)
 
 First five rows of Y:
+
 ![r3](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/5532b1f2-4dce-49e1-a5fb-5227d0327391)
 
 Transforming Categorical to numerical values:
+
 ![nn1 3](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/549c311a-c6a5-4452-9bbc-a44434474c8f)
 
 
 Prediction:
+
 ![nn1 4](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/3a3f93bc-0471-41e0-b197-1b2ce9172a4e)
 
 
@@ -188,6 +193,7 @@ Classification report:
 ![nn1 5](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/c1eb9b89-3e1c-4b8f-889e-a16832b4d8ec)
 
 Confusion matrix:
+
 ![nn1 6](https://github.com/Sharmilasha/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94506182/0acd131b-27be-44cb-a631-8967e67a4492)
 
 ## RESULT
